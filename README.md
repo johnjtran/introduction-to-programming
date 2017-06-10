@@ -10,40 +10,40 @@ The course is consisted of XX lessons.  For each lesson, students are expected t
 
 - Quick Introduction
   - Getting feet wet
-	- Development environment part 1
+  - Development environment part 1
 - Clojure the language Part 1
   - Primitive data types
-	- Symbols and data
+  - Symbols and data
 - Clojure the language Part 2
-	- Mathematical operations
-	- Boolean logic
-	- Function calls
+  - Mathematical operations
+  - Boolean logic
+  - Function calls
 - Clojure the language Part 3
-	- Collections
-	- List
-	- Vector
-	- Set
-	- Map
+  - Collections
+  - List
+  - Vector
+  - Set
+  - Map
 - Clojure Programs
-	- Development environment part 2
+  - Development environment part 2
 - Abstractions
   - Monoids
-	- Functors
-	- Monads
-	- Category Theory
-	- Applicative Functor
-	- Maybe Monad
-	- List Monad
+  - Functors
+  - Monads
+  - Category Theory
+  - Applicative Functor
+  - Maybe Monad
+  - List Monad
 - Mathematic Concepts
   - Vector
-	- Tensor
+  - Tensor
 - Solving Problems with Clojure
-	- Scaling vector
-	- Adding vector
-	- Modifying a list
+  - Scaling vector
+  - Adding vector
+  - Modifying a list
   - Temperature Conversion
-	- Newtonian physics
-	- Electrical Circuits
-	- Word Jumble
-	- Artificial Intelligence
-	- Pattern Matching
+  - Newtonian physics
+  - Electrical Circuits
+  - Word Jumble
+  - Artificial Intelligence
+  - Pattern Matching
