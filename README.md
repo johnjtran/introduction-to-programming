@@ -6,44 +6,6 @@ Throughout the course, we will jump around different websites and youtube videos
 
 The course is consisted of XX lessons.  For each lesson, students are expected to spend 20 - 30 minutes on the reading materials (or watching the instructional videos) and 30 - 60 minutes on the programming assignments.
 
-## Topics
+The course instructional materials can be found on the [Wiki](wiki) page.
 
-- Quick Introduction
-  - Getting feet wet
-  - Development environment part 1
-- Clojure the language Part 1
-  - Primitive data types
-  - Symbols and data
-- Clojure the language Part 2
-  - Mathematical operations
-  - Boolean logic
-  - Function calls
-- Clojure the language Part 3
-  - Collections
-  - List
-  - Vector
-  - Set
-  - Map
-- Clojure Programs
-  - Development environment part 2
-- Abstractions
-  - Monoids
-  - Functors
-  - Monads
-  - Category Theory
-  - Applicative Functor
-  - Maybe Monad
-  - List Monad
-- Mathematic Concepts
-  - Vector
-  - Tensor
-- Solving Problems with Clojure
-  - Scaling vector
-  - Adding vector
-  - Modifying a list
-  - Temperature Conversion
-  - Newtonian physics
-  - Electrical Circuits
-  - Word Jumble
-  - Artificial Intelligence
-  - Pattern Matching
+Good luck!
